@@ -7,10 +7,10 @@ export default function Hero(){
 
         <section className="grid grid-cols-2 mt-8">
         <div>
-      <h1 className="text-4xl font-semibold leading-normal">Indulge in the taste of the sea, where every dish is a tribute to the ocean's bounty, with   <br/> <span className="text-primary">our Carlingford Oysters</span> taking center stage.</h1>
+      <h1 className="text-4xl font-semibold leading-normal">Indulge in the taste of the sea, where every dish is a tribute to the ocean&apos;s bounty, with   <br/> <span className="text-primary">our Carlingford Oysters</span> taking center stage.</h1>
       <br></br>
       <p className="my-4 text-gray-800">
-       The Shore Restaurant is located in Carlingford Lough, the home of the world renowned Carlingford Oyster. The unique sweet taste and high meat content of the Carlingford Oyster is one of nature's real treasures. Dive into freshness at The Shore Restaurant, where every bite brings the essence of the sea to your plate.
+       The Shore Restaurant is located in Carlingford Lough, the home of the world renowned Carlingford Oyster. The unique sweet taste and high meat content of the Carlingford Oyster is one of nature&apos;s real treasures. Dive into freshness at The Shore Restaurant, where every bite brings the essence of the sea to your plate.
       </p>
       <div className="flex gap-4">
        <button className="bg-primary uppercase flex gap-2 text-white px-8 py-2 rounded-full">Book a table  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
