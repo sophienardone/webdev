@@ -11,7 +11,7 @@ return (
       <Link href ={''}>Our Menu</Link>
       <Link href ={''}>About</Link>
       <Link href ={''}>Contact us</Link>
-      <Link href ={'/dashboard'}>Dashboard</Link>
+      <Link href ={'/dashboard'}>Dashboard page</Link>
       
     </nav>
     <nav className="flex items-center gap-8 text-gray-800 font-semibold">
